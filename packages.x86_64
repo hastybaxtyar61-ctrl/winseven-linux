@@ -1,0 +1,55 @@
+# Base System & Build Tools
+base
+linux
+linux-firmware
+networkmanager
+fastfetch
+nano
+git
+cmake
+extra-cmake-modules
+ninja
+curl
+unzip
+base-devel
+
+# Display Manager & Display Server
+sddm
+sddm-kcm
+pipewire
+pipewire-alsa
+pipewire-pulse
+pipewire-jack
+mesa
+xorg-xwayland
+plasma-wayland-protocols
+wayland-protocols
+vulkan-headers
+
+# Desktop Environment & Qt6 Stack
+plasma-desktop
+plasma-workspace
+plasma-nm
+plasma-pa
+plasma5support
+kwin
+kvantum
+qt6-virtualkeyboard
+qt6-multimedia
+qt6-5compat
+qt6-wayland
+
+# Windows Compatibility Layer (32-bit / 64-bit)
+wine-staging
+winetricks
+dxvk-native
+giflib
+lib32-giflib
+gnutls
+lib32-gnutls
+v4l-utils
+lib32-v4l-utils
+libpulse
+lib32-libpulse
+alsa-plugins
+lib32-alsa-plugins
