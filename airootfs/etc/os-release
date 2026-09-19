@@ -1,0 +1,11 @@
+NAME="WinSeven Linux"
+PRETTY_NAME="WinSeven Linux 1.0 (Aero Edition)"
+ID=winseven
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;34"
+HOME_URL="https://github.com/winseven-linux"
+DOCUMENTATION_URL="https://github.com/winseven-linux"
+SUPPORT_URL="https://github.com/winseven-linux"
+BUG_REPORT_URL="https://github.com/winseven-linux"
+LOGO=windows
