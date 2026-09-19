@@ -1,0 +1,18 @@
+===================================================================
+                  WINSEVEN LINUX (ARCH ISO)
+===================================================================
+
+This project brings the authentic Windows 7 Aero experience to Arch
+Linux using KDE Plasma 6 and the incredible work of the AeroThemePlasma 
+project!
+
+Special thanks and full credit to:
+- wackyideas & the AeroThemePlasma team for the Plasma 6 port,
+  custom KWin glass effects, and taskbar plasmoids.
+- The AeroShell community for icons, sound themes, and GTK integration.
+
+Repository & Source:
+https://gitgud.io/wackyideas/aerothemeplasma
+
+Built with archiso by hastybaxtyar61-ctrl
+===================================================================
