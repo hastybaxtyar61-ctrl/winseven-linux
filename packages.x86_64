@@ -43,13 +43,13 @@ qt6-wayland
 # Windows Compatibility Layer (32-bit / 64-bit)
 wine-staging
 winetricks
-dxvk-native
+
 giflib
-lib32-giflib
+
 gnutls
 lib32-gnutls
 v4l-utils
-lib32-v4l-utils
+
 libpulse
 lib32-libpulse
 alsa-plugins
