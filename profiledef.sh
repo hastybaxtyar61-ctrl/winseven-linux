@@ -1,6 +1,3 @@
-#!/usr/bin/env bash
-# winseven-iso/profiledef.sh
-
 iso_name="winseven"
 iso_label="WIN7_LIVE"
 iso_publisher="WinSeven Linux Team"
@@ -8,9 +5,7 @@ iso_application="WinSeven Linux Live/Installation Media"
 iso_version="1.0-aero"
 install_dir="winseven"
 buildmodes=('iso')
-bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
-          'uefi-ia32.grub.esp' 'uefi-x64.grub.esp'
-          'uefi-x64.systemd-boot.esp')
+bootmodes=('bios.syslinux' 'uefi.systemd-boot')
 arch="x86_64"
 pacman_conf="pacman.conf"
 airootfs_image_type="squashfs"
