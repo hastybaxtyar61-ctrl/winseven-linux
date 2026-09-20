@@ -12,6 +12,7 @@ ninja
 curl
 unzip
 base-devel
+grub
 
 # Display Manager & Display Server
 sddm
@@ -53,3 +54,4 @@ libpulse
 lib32-libpulse
 alsa-plugins
 lib32-alsa-plugins
+
